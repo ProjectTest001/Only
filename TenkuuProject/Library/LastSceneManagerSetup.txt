@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Hunting/Scene/HuntingScene.unity
+  isLoaded: 1
+  isActive: 1
